@@ -54,5 +54,13 @@
     "decimals": 18,
     "chainId": "0x534e5f4d41494e",
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0/logo.png"
+  },
+{
+    "name": "Anubis",
+    "address": "0x070dd1f88cc973de315c10b2da4e196554c20e925d630474e257a0a4d9d363dc",
+    "symbol": "ANB",
+    "decimals": 18,
+    "chainId": "0x534e5f4d41494e",
+    "logoURI": "https://cdn.discordapp.com/attachments/948309960599699457/1183064461498650724/log.png?ex=6586f9a3&is=657484a3&hm=f64a31b498af1422fcfe21168f3ed1f8b578a51e60c072020461b3e6720884d8&"
   }
 ]
